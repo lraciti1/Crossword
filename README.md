@@ -1,6 +1,4 @@
 # Crossword
-
-## Overview
 This project is a C program called crossword.c that generates a crossword anagram puzzle. The game allows players to solve anagram-based crossword clues, with both interactive and command-line modes supported. It was developed as a lab assignment to demonstrate key concepts in C programming, including problem decomposition, 2D arrays, file I/O, and interactive gameplay.
 
 ## Features
